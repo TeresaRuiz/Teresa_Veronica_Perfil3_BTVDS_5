@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "menu_nav_ts",
+    "slug": "menu_nav_ts",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash_tv.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#a6e6e6"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
